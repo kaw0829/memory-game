@@ -4,9 +4,14 @@ This Project is a simple memory game created with React.  The goal of the game i
 
 ## Dependencies
 
-lo-dash is used for shuffling the cards array.
-font-awesome is used for the graphic icons on the card
-Create-React-App was used to scaffold the project
+# lo-dash 
+Used for shuffling the cards array.
+
+# font-awesome 
+Used for the graphic icons on the card.
+
+# Create-React-App
+Used to scaffold the project.
 
 ## Available Scripts
 
