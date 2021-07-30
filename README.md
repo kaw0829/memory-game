@@ -2,6 +2,8 @@
 
 This Project is a simple memory game created with React. The goal of the game is to click on a different icon each round. The cards are shuffled after each click and when every card has been clicked on the player levels up and six new cards are shuffled in. Score is calculated by how quickly you select a card. There are 4 levels for a total of 24 cards. High Score is stored in sessionStorage so the player can play multiple rounds.
 
+[Game Demo](https://kaw0829.github.io/memory-game/)
+
 ## Dependencies
 
 ### lo-dash
