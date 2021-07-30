@@ -14,6 +14,18 @@ Used for the graphic icons on the card.
 
 ### Create-React-App
 
+## Dependencies
+
+### lo-dash
+
+Used for shuffling the cards array.
+
+### font-awesome
+
+Used for the graphic icons on the card.
+
+### Create-React-App
+
 Used to scaffold the project.
 
 ## Available Scripts
